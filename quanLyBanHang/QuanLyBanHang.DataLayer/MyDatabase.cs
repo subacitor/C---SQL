@@ -78,5 +78,78 @@ namespace QuanLyBanHang.DataLayer
             }
             return result;
         }
+
+        public SqlDataReader MyExcuteReader(ref string err, string querry, CommandType commandType, params SqlParameter[] param)
+        {
+            SqlDataReader result = null;
+            try
+            {
+                if (conn.State == ConnectionState.Open)
+                {
+                    conn.Close();
+                }
+                conn.Open();
+
+                cmd = new SqlCommand(querry, conn);
+                cmd.CommandType = commandType;
+                cmd.CommandTimeout = 600;
+                if (param != null)
+                {
+                    foreach (SqlParameter par in param)
+                    {
+                        cmd.Parameters.Add(par);
+                    }
+                }
+                result = cmd.ExecuteReader();
+
+            }
+            catch (Exception ex)
+            {
+                err = ex.Message;
+            }
+            finally
+            {
+                conn.Close();
+            }
+            return result;
+        }
+
+        public DataTable MyDataTable(ref string err, string querry, CommandType commandType, params SqlParameter[] param)
+        {
+            DataTable result = null;
+            try
+            {
+                if (conn.State == ConnectionState.Open)
+                {
+                    conn.Close();
+                }
+                conn.Open();
+
+                cmd = new SqlCommand(querry, conn);
+                cmd.CommandType = commandType;
+                cmd.CommandTimeout = 600;
+                if (param != null)
+                {
+                    foreach (SqlParameter par in param)
+                    {
+                        cmd.Parameters.Add(par);
+                    }
+                }
+                result = new DataTable();
+                adapter = new SqlDataAdapter(cmd);
+                adapter.Fill(result);
+
+
+            }
+            catch (Exception ex)
+            {
+                err = ex.Message;
+            }
+            finally
+            {
+                conn.Close();
+            }
+            return result;
+        }
     }
 }
