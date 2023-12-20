@@ -1,0 +1,16 @@
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\QuanLyBanHang.DataLayer.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\QuanLyBanHang.DTO.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\QuanLyBanHang.DataLayer.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\QuanLyBanHang.DTO.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMain.resources
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HeThong.FrmKetNoi.resources
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\QuanLyBanHang.BusinessLayer.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\WindowsFormsApplication1\bin\Debug\QuanLyBanHang.BusinessLayer.pdb

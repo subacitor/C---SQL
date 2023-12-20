@@ -1,0 +1,9 @@
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\bin\Debug\QuanLyBanHang.BusinessLayer.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\bin\Debug\QuanLyBanHang.BusinessLayer.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\bin\Debug\QuanLyBanHang.DataLayer.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\bin\Debug\QuanLyBanHang.DTO.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\bin\Debug\QuanLyBanHang.DataLayer.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\bin\Debug\QuanLyBanHang.DTO.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\obj\Debug\QuanLyBanHang.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\obj\Debug\QuanLyBanHang.BusinessLayer.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.BusinessLayer\obj\Debug\QuanLyBanHang.BusinessLayer.pdb

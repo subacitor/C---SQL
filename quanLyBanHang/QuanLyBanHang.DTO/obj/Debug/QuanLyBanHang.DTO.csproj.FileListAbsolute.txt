@@ -1,0 +1,5 @@
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DTO\bin\Debug\QuanLyBanHang.DTO.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DTO\bin\Debug\QuanLyBanHang.DTO.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DTO\obj\Debug\QuanLyBanHang.DTO.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DTO\obj\Debug\QuanLyBanHang.DTO.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DTO\obj\Debug\QuanLyBanHang.DTO.pdb

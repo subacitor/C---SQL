@@ -1,0 +1,5 @@
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DataLayer\bin\Debug\QuanLyBanHang.DataLayer.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DataLayer\bin\Debug\QuanLyBanHang.DataLayer.pdb
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DataLayer\obj\Debug\QuanLyBanHang.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DataLayer\obj\Debug\QuanLyBanHang.DataLayer.dll
+C:\Users\LHUser\Desktop\thks\quanLyBanHang\QuanLyBanHang.DataLayer\obj\Debug\QuanLyBanHang.DataLayer.pdb
